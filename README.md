@@ -2,10 +2,6 @@
 
 Aplicação para gerenciar usuários, filmes e reviews.
 
-# Projeto Django REST API
-
-Este projeto é uma aplicação Django que oferece uma API RESTful para gerenciamento de entidades e relacionamentos.
-
 ## Funcionalidades Principais
 
 - Customização de usuário com base no AbstractUser.
